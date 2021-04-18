@@ -1,0 +1,23 @@
+{
+  "name": "node-create-readme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create-readme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonWaaler/node-create-readme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonWaaler/node-create-readme/issues"
+  },
+  "homepage": "https://github.com/JonWaaler/node-create-readme#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
