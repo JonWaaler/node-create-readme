@@ -108,7 +108,7 @@ function init() {
           "\n\n## Tests <a name='tests'></a>\n\n" +
           answers.tests +
           "\n\n## Questions <a name='questions'></a>\n\n" +
-          "[Github Profile:" +
+          "[Github Profile: " +
           Capitalize(answers.username) +
           "](https://github.com/" +
           answers.username +
